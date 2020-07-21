@@ -1,2 +1,2 @@
 # SESS
-IoT project regarding smart streetlights using IoT.
+IoT project regarding smart streetlights using Arduino MCU, IR proximity and LDR sensors.
